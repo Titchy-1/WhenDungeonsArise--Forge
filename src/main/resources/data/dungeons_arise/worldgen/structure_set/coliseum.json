@@ -7,8 +7,13 @@
   ],
   "placement": {
     "salt": 1626626631,
+<<<<<<< HEAD
     "spacing": 200,
     "separation": 180,
+=======
+    "spacing": 300,
+    "separation": 280,
+>>>>>>> parent of 6b704ef (Amended Spacing and Separation again)
     "type": "minecraft:random_spread"
   }
 }
